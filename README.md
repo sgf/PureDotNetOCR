@@ -1,0 +1,2 @@
+# PureDotNetOCR
+pure dotnet OCR
